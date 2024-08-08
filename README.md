@@ -48,7 +48,7 @@
 
 ### 🚀 Projects
 - **[Retail Analytics Dashboard](https://github.com/DigitalHerencia/retail-analytics-dashboard)**: A comprehensive dashboard for New Mexico’s cannabis industry.
-- **[Menu Comparison Feature](https://github.com/DigitalHerencia/NM-Cannabis-Analytics)**: Compare product prices across dispensaries.
+- **[Census Data Visualization Demo](https://github.com/DigitalHerencia/CensusDataVisualizationDemo)**: Visualizations based on the July 2024 Current Population Survey.
 - **[Sales Data Visualization](https://github.com/DigitalHerencia/NM-Cannabis-Analytics)**: Time-series analysis of sales data.
 
 ![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/raw/main/client/src/assets/Untitleddesign.jpg)
