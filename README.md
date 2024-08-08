@@ -44,7 +44,7 @@
 - 🗄️ **Databases**: MongoDB
 - 🔒 **Authentication**: JWT
 
-![Digital Herencia](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/raw/main/client/src/assets/splash2.jpg)
+![Digital Herencia](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/b5905304fd4c2c9fb35e755b7d313b0de55d0e1e/client/src/assets/reg2.jpg)
 
 ### 🚀 Projects
 - **[Retail Analytics Dashboard](https://github.com/DigitalHerencia/retail-analytics-dashboard)**: A comprehensive dashboard for New Mexico’s cannabis industry.
