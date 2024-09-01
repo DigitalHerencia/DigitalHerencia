@@ -51,7 +51,7 @@
 - **[Census Data Visualization Demo](https://github.com/DigitalHerencia/CensusDataVisualizationDemo)**: Visualizations based on the July 2024 Current Population Survey.
 - **[Sales Data Visualization](https://github.com/DigitalHerencia/NM-Cannabis-Analytics)**: Time-series analysis of sales data.
 
-![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/raw/main/client/src/assets/Untitleddesign.jpg)
+![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/src/assets/Untitled%20design.jpg)
 
 <div align="center">
   
