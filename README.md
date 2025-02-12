@@ -25,11 +25,6 @@
 
 ---
 
-### 👨‍💻 About Me
-I’m a professional (and occasionally subversive) indie hacker who builds modern web applications with Next.js 15 and React 19. When I'm not busy reinventing the wheel—or deconstructing it for fun—I’m coding, iterating, and poking fun at the absurdity of tech trends. Currently, I’m channeling my energy into innovative solutions for New Mexico’s most forward-thinking industries. Because why settle for the ordinary when you can disrupt the status quo?
-
----
-
 ![Digital Herencia](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/b5905304fd4c2c9fb35e755b7d313b0de55d0e1e/client/src/assets/reg2.jpg)
 
 ---
