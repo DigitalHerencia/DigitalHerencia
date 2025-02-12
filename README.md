@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px;">
   
 [![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Made with React](https://img.shields.io/badge/Made%20with-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
