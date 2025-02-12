@@ -45,7 +45,7 @@
 # 🚀 Featured Projects
 
 ### **COMPETITIVE ADVANTAGE**
-A comprehensive dashboard for **New Mexico’s cannabis industry**. *Who said retail analytics aren't lit!*
+A comprehensive dashboard built using the **OG MERN Stack** specifically for *mercandise allocation nerds* in the **New Mexico’s** cannabis industry. Who said **retail analytics** aren't *lit!*
 
 ![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/src/assets/Untitled%20design.jpg)
 
