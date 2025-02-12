@@ -49,7 +49,7 @@ A comprehensive dashboard built using the **OG MERN Stack** specifically for mer
 
 ![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/src/assets/Untitled%20design.jpg)
 
-🔗 **[Repo: Retail Analytics Dashboard](https://github.com/DigitalHerencia/retail-analytics-dashboard)**
+🔗 **[Repo: Retail Analytics Dashboard](https://github.com/DigitalHerencia/NM-Cannabis-Analytics)**
 
 ---
 
