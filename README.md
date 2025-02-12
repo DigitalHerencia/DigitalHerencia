@@ -45,7 +45,7 @@
 # 🚀 Featured Projects
 
 ### **COMPETITIVE ADVANTAGE**
-A comprehensive dashboard built using the **OG MERN Stack** specifically for *mercandise allocation nerds* in the **New Mexico’s** cannabis industry. Who said **retail analytics** aren't *lit!*
+A comprehensive dashboard built using the **OG MERN Stack** specifically for merchandise allocation planning *nerds* in the **New Mexico** cannabis industry. Who said retail analytics aren't lit!
 
 ![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/src/assets/Untitled%20design.jpg)
 
@@ -65,7 +65,7 @@ Because nothing screams efficiency like automating human resources.
 
 ### **Drama Drops**
 A **real-time anonymous confession and gossip app** powered by **Next.js, Clerk authentication, and WebSockets**.  
-Spill the tea, no receipts required.  
+Spill the tea with no receipts.  
 
 ![NextGen Management Agency](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/public/IMG_7476.jpeg)
 
