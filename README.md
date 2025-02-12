@@ -29,15 +29,16 @@
 
 ---
 
-### 🛠️ My Tech Stack
+# 🛠️ My Tech Stack
+
 - 💻 **Languages**: JavaScript (ESNext), TypeScript, HTML5, CSS3  
 - 🌐 **Frontend**: Next.js 15, React 19, ShadCN UI (because aesthetics matter)  
 - 🎨 **UI Components**: ShadCN, Material-UI (Minimalism meets usability)  
-- 🚀 **Backend**: Node.js, Express.js (API routes: because server-side rendering isn’t the only thing worth breaking)  
+- 🔙 **Backend**: Node.js, Express.js (API routes: because server-side rendering isn’t the only thing worth breaking)  
 - 📊 **Data Visualization**: Nivo, D3.js (making numbers look almost interesting)  
 - 🗄️ **Databases**: MongoDB (still the cool kid on the block)  
 - 🔒 **Authentication**: Clerk (because keeping users logged in is a skill)  
-- 🚀 **Deployment**: Vercel (Zero-config, infinite scalability, and maximum flex)
+- ✅ **Deployment**: Vercel (Zero-config, infinite scalability, and maximum flex)
 
 ---
 
