@@ -5,7 +5,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  
+    
 [![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Made with React](https://img.shields.io/badge/Made%20with-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -19,6 +19,8 @@
 [![Uses ShadCN](https://img.shields.io/badge/Uses-ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 [![Uses JavaScript](https://img.shields.io/badge/Uses-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Uses JSX](https://img.shields.io/badge/Uses-JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/introducing-jsx.html)
+[![Contains Material-UI](https://img.shields.io/badge/Contains-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![Uses Python](https://img.shields.io/badge/Uses-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
   </div>
 </div>
