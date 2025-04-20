@@ -26,8 +26,7 @@
 </div>
 
 ---
-
-![Digital Herencia](https://raw.githubusercontent.com/DigitalHerencia/court-jester-main/refs/heads/main/public/icons/homepage.png)
+![Digital Herencia](https://raw.githubusercontent.com/DigitalHerencia/NM-Cannabis-Analytics/refs/heads/main/client/src/assets/reg2.jpg)
 
 ---
 
@@ -46,12 +45,12 @@
 
 # 🚀 Featured Projects
 
-### **Court-jester**
-A comprehensive dashboard built using the **OG MERN Stack** specifically for merchandise allocation planning *nerds* in the **New Mexico** cannabis industry. Who said retail analytics aren't lit!
+### **Court⚖️Jester**
+A **Next.js 15** justice‑tech platform that turns *court chaos* into an *organized flow* of **offender cases, motions, and real‑time notifications.**
 
-![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/src/assets/Untitled%20design.jpg)
+![Digital Herencia](https://raw.githubusercontent.com/DigitalHerencia/court-jester-main/refs/heads/main/public/icons/homepage.png)
 
-🔗 **[Repo: Retail Analytics Dashboard](https://github.com/DigitalHerencia/NM-Cannabis-Analytics)**
+🔗 **[Repo: Court Jester](https://github.com/DigitalHerencia/court-jester)**
 
 ### **COMPETITIVE ADVANTAGE**
 A comprehensive dashboard built using the **OG MERN Stack** specifically for merchandise allocation planning *nerds* in the **New Mexico** cannabis industry. Who said retail analytics aren't lit!
