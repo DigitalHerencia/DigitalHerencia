@@ -26,9 +26,6 @@
 </div>
 
 ---
-![Digital Herencia](https://raw.githubusercontent.com/DigitalHerencia/NM-Cannabis-Analytics/refs/heads/main/client/src/assets/reg2.jpg)
-
----
 
 # 🛠️ My Tech Stack
 
@@ -42,68 +39,3 @@
 - ✅ **Deployment**: Vercel (Zero-config, infinite scalability, and maximum flex)
 
 ---
-
-# 🚀 Featured Projects
-
-### **Court⚖️Jester**
-A **Next.js 15** justice‑tech platform that turns *court chaos* into an *organized flow* of **offender cases, motions, and real‑time notifications.**
-
-![Digital Herencia](https://raw.githubusercontent.com/DigitalHerencia/court-jester-main/refs/heads/main/public/icons/homepage.png)
-
-🔗 **[Repo: Court Jester](https://github.com/DigitalHerencia/court-jester)**
-
-### **COMPETITIVE ADVANTAGE**
-A comprehensive dashboard built using the **OG MERN Stack** specifically for merchandise allocation planning *nerds* in the **New Mexico** cannabis industry. Who said retail analytics aren't lit!
-
-![Tech Stack](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/src/assets/Untitled%20design.jpg)
-
-🔗 **[Repo: Retail Analytics Dashboard](https://github.com/DigitalHerencia/NM-Cannabis-Analytics)**
-
----
-
-### **NextGen Management Agency**
-A **modern talent management platform** built with **Next.js 15, React 19**, and **MongoDB**.  
-Because nothing screams efficiency like automating human resources.
-
-![Drama Drops](https://raw.githubusercontent.com/DigitalHerencia/NM-Cannabis-Analytics/refs/heads/main/client/public/IMG_7475.jpeg)
-
-🔗 **[Repo: NextGen Management Agency](https://github.com/DigitalHerencia/NextGenManagementAgency)**  
-
----
-
-### **Drama Drops**
-A **real-time anonymous confession and gossip app** powered by **Next.js, Clerk authentication, and WebSockets**.  
-Spill the tea with no receipts.  
-
-![NextGen Management Agency](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/public/IMG_7476.jpeg)
-
-🔗 **[Repo: Drama Drops](https://github.com/DigitalHerencia/dramadrops)**  
-
----
-
-### **Census Data Visualization**
-A **data visualization project** for the **US Census CPS Basic Monthly Data**.  
-Transforming **raw data** into **interactive insights** using **Plotly & Python**.  
-
-![Census Data Visualization](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/public/IMG_7477.jpeg?raw=true)
-
-🔗 **[Repo: Census Data Visualization](https://github.com/DigitalHerencia/CensusDataVisualizationDemo)**  
-
----
-
-### **Southwest Media Services**
-A **photography portfolio and booking platform** powered by **Next.js & Cloudinary**.  
-Capture moments, tell stories, and showcase high-quality images seamlessly.  
-
-![Southwest Media Services](https://github.com/DigitalHerencia/NM-Cannabis-Analytics/blob/main/client/public/IMG_7479.jpeg?raw=true)
-
-🔗 **[Repo: Southwest Media Services](https://github.com/DigitalHerencia/SouthwestMediasServices)**  
-
----
-
-<div align="center">
-  
-### 📈 GitHub Stats
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigitalHerencia&show_icons=true&theme=radical)
-
-</div>
