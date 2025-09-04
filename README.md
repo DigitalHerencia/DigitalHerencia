@@ -39,12 +39,16 @@
 - **Impact**: Full-scale enterprise solution with role-based access and company-level data isolation
 - 🌟 *3 stars • Live Demo: [fleet-fusion.vercel.app](https://fleet-fusion.vercel.app)*
 
+![FleetFusion Screenshot](assets/images/screenshots/09b931e1-ec51-4130-add4-39337908a058.png)
+
 ## 🧠 [CodebaseContextUtility](https://github.com/DigitalHerencia/CodebaseContextUtility) - AI Developer Tool
 **LLM-ready context generation for codebases**
 - **Tech**: Next.js 14, TypeScript, File System API, AST Analysis
 - **Features**: Smart code analysis, dependency mapping, token estimation, multiple export formats
 - **Impact**: Empowers AI-assisted development with intelligent codebase understanding
 - 🔧 *Essential tool for modern AI-enhanced development workflows*
+
+![CodebaseContextUtility Screenshot](assets/images/screenshots/Screenshot_4-9-2025_162543_codebase-context-utility.vercel.app.jpeg)
 
 ## 💰 [HustlersCode](https://github.com/DigitalHerencia/HustlersCode) - Street Business Analytics
 **Street-smart business intelligence platform**
@@ -53,6 +57,23 @@
 - **Impact**: Bridges entrepreneurial hustle with data-driven decision making
 - 🏆 *Where data meets street smarts - knowledge is power, but applied knowledge is profit*
 
+<div align="center">
+  <img src="assets/images/screenshots/hustlers code.png" alt="HustlersCode Main Interface" style="max-width: 100%; margin: 10px;">
+</div>
+
+### Application Screenshots
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+  <img src="assets/images/screenshots/Screenshot_17-5-2025_5502_hustlerscode.vercel.app.jpeg" alt="HustlersCode Dashboard" style="width: 100%; border-radius: 8px;">
+  <img src="assets/images/screenshots/Screenshot_17-5-2025_5518_hustlerscode.vercel.app.jpeg" alt="HustlersCode Analytics" style="width: 100%; border-radius: 8px;">
+  <img src="assets/images/screenshots/Screenshot_17-5-2025_55023_hustlerscode.vercel.app.jpeg" alt="HustlersCode Features" style="width: 100%; border-radius: 8px;">
+</div>
+
+### Cultural Elements
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="assets/images/screenshots/TheTemptationOfLaNinaBlanca.png" alt="The Temptation of La Nina Blanca" style="max-height: 200px; border-radius: 8px;">
+  <img src="assets/images/screenshots/Vida y Cultura Chicana.png" alt="Vida y Cultura Chicana" style="max-height: 200px; border-radius: 8px;">
+</div>
+
 ## 🔥 [SiempreNuevo](https://github.com/DigitalHerencia/SiempreNuevo) - Cultural E-Commerce
 **Bold urban streetwear celebrating New Mexico women's culture**
 - **Tech**: Next.js 15, React 19, Tailwind CSS, Vercel
@@ -60,12 +81,22 @@
 - **Impact**: Authentic representation of Latino/Hispanic culture through fearless fashion
 - ✨ *FFJ URBANM - Fearless street culture with unapologetic style*
 
+![SiempreNuevo Screenshot](assets/images/screenshots/Screenshot_4-9-2025_163026_siemprenuevo.vercel.app.jpeg)
+
 ## 🗣️ [FreeTheHomie](https://github.com/DigitalHerencia/FreeTheHomie) - Chat Deployment Platform
 **Intelligent chat platform with v0.app integration**
 - **Tech**: Next.js, v0.app AI, Vercel Edge Functions, Auto-sync workflows
 - **Features**: Real-time deployment, AI-powered chat, seamless v0.app integration
 - **Impact**: Streamlines AI chat development from design to production
 - ⚡ *Liberating conversations through intelligent automation*
+
+![FreeTheHomie Screenshot](assets/images/screenshots/freethehomie.png)
+
+### Cultural Integration
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="assets/images/screenshots/TheTemptationOfLaNinaBlanca.png" alt="The Temptation of La Nina Blanca" style="max-height: 200px; border-radius: 8px;">
+  <img src="assets/images/screenshots/Vida y Cultura Chicana.png" alt="Vida y Cultura Chicana" style="max-height: 200px; border-radius: 8px;">
+</div>
 
 ---
 
