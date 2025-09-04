@@ -1,109 +1,108 @@
 <div align="center">
-  <h1>Ivan Roman</h1>
-  <p><strong>Full-Stack Developer • Modern Indie Hacker • New Mexico Native</strong></p>
-  <p><em>Building enterprise SaaS platforms and cultural tech experiences with Next.js 15, React 19, and entrepreneurial spirit</em></p>
+
+# Ivan Roman  
+**Full-Stack Developer • Modern Indie Hacker • New Mexico Native**  
+*Building enterprise SaaS platforms and cultural tech experiences with Next.js 15, React 19, and entrepreneurial spirit*
+
+---
+
+<!-- Badges -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px; margin: 1rem 0;">
+  
+[![Made with Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Clerk](https://img.shields.io/badge/Clerk-0055FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.dev/)
+[![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    
-[![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Made with React](https://img.shields.io/badge/Made%20with-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Made with MongoDB](https://img.shields.io/badge/Made%20with-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Contains Express](https://img.shields.io/badge/Contains-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Contains Redux](https://img.shields.io/badge/Contains-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Contains JWT](https://img.shields.io/badge/Contains-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Uses Clerk](https://img.shields.io/badge/Uses-Clerk-0055FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.dev/)
-[![Uses ShadCN](https://img.shields.io/badge/Uses-ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
-[![Uses JavaScript](https://img.shields.io/badge/Uses-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Uses JSX](https://img.shields.io/badge/Uses-JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/introducing-jsx.html)
-[![Contains Material-UI](https://img.shields.io/badge/Contains-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![Uses Python](https://img.shields.io/badge/Uses-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-  </div>
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🌎 About Me  
+
+New Mexico native blending **enterprise engineering** with **cultural storytelling** and **entrepreneurial hustle**.  
+I build full-stack applications that solve real business problems while celebrating authentic identity and community.  
+
+- 🏢 **Enterprise Experience**: Multi-tenant SaaS, RBAC, compliance systems  
+- 🎨 **Cultural Perspective**: Integrate Latino/Hispanic heritage into tech solutions  
+- 🚀 **Entrepreneurial Mindset**: Build products that empower small business owners  
+- 🤖 **AI Integration**: LLM workflows, context generation, intelligent automation  
+
+---
+
+## 🛠️ My Tech Stack  
+
+- **Languages:** JavaScript (ESNext), TypeScript, Python  
+- **Frontend:** Next.js 15, React 19, ShadCN UI, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Vercel Edge Functions  
+- **Data & Analytics:** PostgreSQL, Prisma ORM, Neon, Nivo/D3.js  
+- **Auth & Security:** Clerk, JWT, RBAC/ABAC  
+- **Deployment:** Vercel, GitHub Actions  
+- **Architecture:** Multi-tenant SaaS, real-time systems, microservices  
+
+---
+
+## 🚀 Featured Projects  
 
 > *Where enterprise meets entrepreneurship, and culture meets code*
 
-## 🚚 [FleetFusion](https://github.com/DigitalHerencia/FleetFusion) - Enterprise SaaS Platform
-**Next-gen fleet management for trucking companies**
-- **Tech**: Next.js 15, React 19, PostgreSQL, Prisma, Clerk Auth
-- **Features**: Multi-tenant SaaS, RBAC, real-time dispatch, compliance tracking, IFTA reporting
-- **Impact**: Full-scale enterprise solution with role-based access and company-level data isolation
-- 🌟 *3 stars • Live Demo: [fleet-fusion.vercel.app](https://fleet-fusion.vercel.app)*
-
-## 🧠 [CodebaseContextUtility](https://github.com/DigitalHerencia/CodebaseContextUtility) - AI Developer Tool
-**LLM-ready context generation for codebases**
-- **Tech**: Next.js 14, TypeScript, File System API, AST Analysis
-- **Features**: Smart code analysis, dependency mapping, token estimation, multiple export formats
-- **Impact**: Empowers AI-assisted development with intelligent codebase understanding
-- 🔧 *Essential tool for modern AI-enhanced development workflows*
-
-## 💰 [HustlersCode](https://github.com/DigitalHerencia/HustlersCode) - Street Business Analytics
-**Street-smart business intelligence platform**
-- **Tech**: Next.js 14, PostgreSQL, Prisma, Custom Theming
-- **Features**: POS system, inventory tracking, client management, profit analytics
-- **Impact**: Bridges entrepreneurial hustle with data-driven decision making
-- 🏆 *Where data meets street smarts - knowledge is power, but applied knowledge is profit*
-
-## 🔥 [SiempreNuevo](https://github.com/DigitalHerencia/SiempreNuevo) - Cultural E-Commerce
-**Bold urban streetwear celebrating New Mexico women's culture**
-- **Tech**: Next.js 15, React 19, Tailwind CSS, Vercel
-- **Features**: E-commerce platform, cultural branding, responsive design, Zia symbolism
-- **Impact**: Authentic representation of Latino/Hispanic culture through fearless fashion
-- ✨ *FFJ URBANM - Fearless street culture with unapologetic style*
-
-## 🗣️ [FreeTheHomie](https://github.com/DigitalHerencia/FreeTheHomie) - Chat Deployment Platform
-**Intelligent chat platform with v0.app integration**
-- **Tech**: Next.js, v0.app AI, Vercel Edge Functions, Auto-sync workflows
-- **Features**: Real-time deployment, AI-powered chat, seamless v0.app integration
-- **Impact**: Streamlines AI chat development from design to production
-- ⚡ *Liberating conversations through intelligent automation*
+### 🚚 [FleetFusion](https://github.com/DigitalHerencia/FleetFusion)  
+**Next-gen fleet management for trucking companies**  
+- **Tech:** Next.js 15, React 19, PostgreSQL, Prisma, Clerk  
+- **Features:** Multi-tenant SaaS, real-time dispatch, compliance & IFTA reporting  
+- **Impact:** Enterprise-grade, scalable, role-based solution  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalHerencia/FleetFusion/refs/heads/main/public/09b931e1-ec51-4130-add4-39337908a058.png" alt="FleetFusion Screenshot" width="80%" style="border-radius: 12px; margin: 1rem 0;">
+</p>
 
 ---
 
-# 🛠️ My Tech Stack
-
-- 💻 **Languages**: JavaScript (ESNext), TypeScript, HTML5, CSS3, Python  
-- 🌐 **Frontend**: Next.js 15, React 19, ShadCN UI (because aesthetics matter)  
-- 🎨 **UI Libraries**: ShadCN, Material-UI, Tailwind CSS, Radix UI (Minimalism meets usability)  
-- 🔙 **Backend**: Node.js, Express.js, Vercel Edge Functions (API routes: because server-side rendering isn’t the only thing worth breaking)  
-- 📊 **Data & Analytics**: Nivo, D3.js, PostgreSQL, Prisma ORM (making numbers look almost interesting)  
-- 🗄️ **Databases**: PostgreSQL, MongoDB, Neon DB (still the cool kids on the block)  
-- 🔒 **Authentication**: Clerk, JWT (because keeping users logged in is a skill)  
-- ✅ **Deployment**: Vercel, GitHub Actions (Zero-config, infinite scalability, and maximum flex)  
-- 🤖 **AI Integration**: LLM context generation, Chat AI, v0.app workflows  
-- 🏗️ **Architecture**: Multi-tenant SaaS, Microservices, Real-time systems, Role-based access control
+### 🧠 [CodebaseContextUtility](https://github.com/DigitalHerencia/CodebaseContextUtility)  
+**LLM-ready context generation for codebases**  
+- Smart code analysis, dependency mapping, token estimation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalHerencia/CodebaseContextUtility/refs/heads/main/public/Screenshot_4-9-2025_162543_codebase-context-utility.vercel.app.jpeg" alt="CodebaseContextUtility Screenshot" width="80%" style="border-radius: 12px; margin: 1rem 0;">
+</p>
 
 ---
 
-# 🌎 About Me
-
-New Mexico native with a passion for blending **enterprise-level engineering** with **cultural storytelling** and **entrepreneurial hustle**. I build full-stack applications that solve real business problems while celebrating authentic identity and community.
-
-**What sets me apart:**
-- 🏢 **Enterprise Experience**: Built production SaaS platforms with multi-tenancy, RBAC, and complex business logic
-- 🎨 **Cultural Perspective**: Integrate Latino/Hispanic heritage and New Mexico identity into modern tech solutions  
-- 🚀 **Entrepreneurial Mindset**: Create products that bridge street-smart business insights with data-driven decisions
-- 🤖 **AI Integration**: Early adopter of LLM workflows, context generation, and intelligent automation
-- 📊 **Full-Stack Mastery**: From React Server Components to PostgreSQL optimization to Vercel deployments
+### 💰 [HustlersCode](https://github.com/DigitalHerencia/HustlersCode)  
+**Street-smart business intelligence platform**  
+- POS system, inventory tracking, profit analytics  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalHerencia/HustlersCode/refs/heads/main/public/Screenshot_4-9-2025_171730_hustlerscode.vercel.app.jpeg" alt="HustlersCode Screenshot" width="80%" style="border-radius: 12px; margin: 1rem 0;">
+</p>
 
 ---
 
-# 🤝 Let's Build Something Amazing
-
-📧 **Contact**: [GitHub Issues](https://github.com/DigitalHerencia/DigitalHerencia/issues) • Professional opportunities welcome  
-🔗 **Portfolio**: Explore the featured projects above to see my work in action  
-🌟 **Open to**: Full-time roles, contract projects, and technical collaborations  
-🗣️ **Languages**: English, Spanish (Bilingual professional communication)
-
-> *"Knowledge is power, but applied knowledge is profit."* - Building the future, one commit at a time.
+### 🔥 [SiempreNuevo](https://github.com/DigitalHerencia/SiempreNuevo)  
+**Bold urban streetwear celebrating NM women's culture**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalHerencia/SiempreNuevo/refs/heads/main/public/Screenshot_4-9-2025_172152_siemprenuevo.vercel.app.jpeg" alt="SiempreNuevo Screenshot" width="80%" style="border-radius: 12px; margin: 1rem 0;">
+</p>
 
 ---
+
+### 🗣️ FreeTheHomie
+Wear the Message. Fund the Movement. Deploy the Future.
+A unified platform combining a fundraising T‑shirt storefront with an AI-powered chat layer (v0.app–aware) to drive awareness and sustainable support for [cause].
+
+<p align="center"> <img src="https://raw.githubusercontent.com/DigitalHerencia/FreeTheHomie/refs/heads/main/public/freethehomie.png" alt="Screenshot of the FreeTheHomie fundraising and chat platform" width="80%" style="border-radius: 12px; margin: 1rem 0;"> </p>
+
+---
+
+## 🤝 Let’s Build Something Amazing  
+
+📧 **Contact:** [Open an Issue](https://github.com/DigitalHerencia/DigitalHerencia/issues)  
+🔗 **Portfolio:** Check out the featured projects above  
+🌟 **Open to:** Full-time roles, contract work, and OSS contributions  
+
+> *"Knowledge is power, but applied knowledge is profit."*  
+
