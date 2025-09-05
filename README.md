@@ -208,13 +208,13 @@ config:
     "primaryTextColor":"#ffffff",
     "primaryBorderColor":"#0b4660",
     "lineColor":"#94a3b8",
-    "clusterTitleFontSize":"26px",
+    "clusterTitleFontSize":"86px",
     "clusterTitleColor":"#ffffff"
   }
 }}%%
 flowchart TB
 
-%% Top: Operating Principles
+%% ── Operating Principles (top)
 subgraph PILLARS[Operating Principles]
 direction LR
   DS["Design Systems<br/>• Reusable components<br/>• Accessible patterns<br/>• Theme tokens"]:::pillar
@@ -223,7 +223,7 @@ direction LR
   DOC["Docs as a Feature<br/>• Clear READMEs<br/>• Setup scripts<br/>• Architectural diagrams"]:::pillar
 end
 
-%% Lane (same color as PILLARS) with green tags inside
+%% ── Influence lane (same color as PILLARS) with green tags inside
 subgraph IMPACT[ ]
 direction LR
   subgraph COL_D[ ]
@@ -249,60 +249,41 @@ direction LR
   end
 end
 
-%% Anchors (to reduce crossings)
+%% ── Anchors (fan-out to reduce crossings)
 AD((" ")):::anchor
 AP((" ")):::anchor
 AS((" ")):::anchor
 
-%% Middle: Delivery cycle (single-line title)
+%% ── Delivery cycle (left→right order; milestones under the section)
 subgraph CYCLE[Discovery→Prototype→Ship]
-direction LR
-  D(Discovery):::stage --> P(Prototype):::stage --> S(Ship):::stage
-  S -.-> FL["feedback loop"]:::stage
-  FL -.-> D
+direction TB
+  subgraph FLOW[ ]
+  direction TB
+    D(Discovery):::stage --> P(Prototype):::stage --> S(Ship):::stage
+    S -.-> FL["feedback loop"]:::stage
+    FL -.-> D
+  end
+  M[("Measurable milestones")]:::note
+  D --> M
+  P --> M
+  S --> M
 end
 
-%% Bottom: Outcome
-M[("Measurable Milestones")]:::note
-D --> M
-P --> M
-S --> M
+%% ── Pillars → tags (dashed)
+DS -.-> L_sup_d; DS -.-> L_sup_p; DS -.-> L_sup_s
+OB -.-> L_inf_d; OB -.-> L_ins_p; OB -.-> L_mon_s
+SEC -.-> L_con_d; SEC -.-> L_gat_p; SEC -.-> L_pro_s
+DOC -.-> L_gui_d; DOC -.-> L_std_p; DOC -.-> L_edu_s
 
-%% Pillars → tags (dashed)
-DS -.-> L_sup_d
-DS -.-> L_sup_p
-DS -.-> L_sup_s
-OB -.-> L_inf_d
-OB -.-> L_ins_p
-OB -.-> L_mon_s
-SEC -.-> L_con_d
-SEC -.-> L_gat_p
-SEC -.-> L_pro_s
-DOC -.-> L_gui_d
-DOC -.-> L_std_p
-DOC -.-> L_edu_s
-
-%% Tags → anchors → stages
-L_sup_d -.-> AD
-L_inf_d -.-> AD
-L_con_d -.-> AD
-L_gui_d -.-> AD
-
-L_sup_p -.-> AP
-L_ins_p -.-> AP
-L_gat_p -.-> AP
-L_std_p -.-> AP
-
-L_sup_s -.-> AS
-L_mon_s -.-> AS
-L_pro_s -.-> AS
-L_edu_s -.-> AS
-
+%% ── Tags → anchors → stages
+L_sup_d -.-> AD; L_inf_d -.-> AD; L_con_d -.-> AD; L_gui_d -.-> AD
+L_sup_p -.-> AP; L_ins_p -.-> AP; L_gat_p -.-> AP; L_std_p -.-> AP
+L_sup_s -.-> AS; L_mon_s -.-> AS; L_pro_s -.-> AS; L_edu_s -.-> AS
 AD --> D
 AP --> P
 AS --> S
 
-%% Styles
+%% ── Styles
 classDef stage  fill:#0ea5e9,stroke:#0b4660,color:#ffffff,stroke-width:1.5px;
 classDef pillar fill:#111827,stroke:#4b5563,color:#ffffff,stroke-width:1px;
 classDef note   fill:#f3f4f6,stroke:#9ca3af,color:#111827,stroke-width:1px;
@@ -310,11 +291,12 @@ classDef tag    fill:#a3e635,stroke:#3f6212,color:#000000,stroke-width:1px;
 classDef anchor fill:transparent,stroke:transparent,color:transparent;
 
 style PILLARS fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:1px;
-style CYCLE   fill:#374151,stroke:#4b5563,color:#ffffff,stroke-width:1px;
 style IMPACT  fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:1px;
 style COL_D   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
 style COL_P   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
 style COL_S   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
+style FLOW    fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:0;
+style CYCLE   fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:1px;
 ```
 
 ---
