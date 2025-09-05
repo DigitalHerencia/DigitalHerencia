@@ -53,6 +53,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalHerencia/SiempreNuevo/refs/heads/main/public/DigitalHerencia.jpeg" alt="Digital Herencia" width="100%" style="border-radius:12px;margin:1rem 0;">
+</p>
+
+---
+
 ## 🌎 About Me
 I’m a New Mexico native blending **enterprise-grade engineering** with **cultural storytelling** and **entrepreneurial hustle**.  
 My work combines SaaS design, real-world analytics, and creative brand expression—applications that are as useful for businesses as they are authentic to communities.  
