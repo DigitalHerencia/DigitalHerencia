@@ -1,29 +1,52 @@
 <div align="center">
 
-# Ivan Roman  
-**Full-Stack Developer • Modern Indie Hacker • New Mexico Native**  
-*Building enterprise SaaS platforms and cultural tech experiences with Next.js 15, React 19, and entrepreneurial spirit*
+<h1> Ivan Roman </h1>  
+<h3> Full-Stack Developer • Modern Indie Hacker • New Mexico Native </h3>
+<h4> Building enterprise SaaS platforms and cultural tech experiences with Next.js 15, React 19, and an entrepreneurial spirit. </h4>
 
 ---
 
 <!-- Badges -->
-<div style="display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:12px;margin:2rem 0;">
+
+<div>
+
+  <img alt="Next.js 15" src="https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img alt="App Router" src="https://img.shields.io/badge/App%20Router-Enabled-0EA5E9?style=for-the-badge" />
+  <img alt="React 19" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=061E26&style=for-the-badge" />
+  <img alt="RSC" src="https://img.shields.io/badge/React%20Server%20Components-RSC-0EA5E9?style=for-the-badge" />
+  <img alt="Tailwind CSS 4" src="https://img.shields.io/badge/Tailwind_CSS-4-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-Components-111827?style=for-the-badge" />
+  <img alt="Radix UI" src="https://img.shields.io/badge/Radix%20UI-Primitives-111827?style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="React Server Actions" src="https://img.shields.io/badge/React%20Server%20Actions-Enabled-0EA5E9?style=for-the-badge" />
+  <img alt="Vercel Edge Functions" src="https://img.shields.io/badge/Vercel-Edge_Functions-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img alt="Express (legacy)" src="https://img.shields.io/badge/Express-Legacy-404D59?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="Neon" src="https://img.shields.io/badge/Neon-Serverless_DB-0EA5E9?style=for-the-badge" />
+  <img alt="Prisma ORM" src="https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+  <img alt="Redis Cache" src="https://img.shields.io/badge/Redis-Cache-D82C20?logo=redis&logoColor=white&style=for-the-badge" />
+  <img alt="Nivo" src="https://img.shields.io/badge/Nivo-Analytics-111827?style=for-the-badge" />
+  <img alt="Recharts" src="https://img.shields.io/badge/Recharts-Analytics-111827?style=for-the-badge" />
+  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-Auth-0B5FFF?style=for-the-badge" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-Tokens-000000?style=for-the-badge" />
+  <img alt="ABAC" src="https://img.shields.io/badge/ABAC-Access_Control-6B7280?style=for-the-badge" />
+  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-Access_Control-6B7280?style=for-the-badge" />
+  <img alt="SVIX" src="https://img.shields.io/badge/SVIX-Webhooks-111827?style=for-the-badge" />
+  <img alt="Upstash" src="https://img.shields.io/badge/Upstash-Platform-00E9A3?logo=upstash&logoColor=001A17&style=for-the-badge" />
+  <img alt="Rate Limiting" src="https://img.shields.io/badge/Rate%20Limiting-Enabled-00E9A3?style=for-the-badge" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-Unit_Tests-6E9F18?logo=vitest&logoColor=white&style=for-the-badge" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-E2E_Tests-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-React-EE4938?logo=testinglibrary&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img alt="Modular Monorepos" src="https://img.shields.io/badge/Modular%20Monorepos-Architecture-0EA5E9?style=for-the-badge" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-Architecture-111827?style=for-the-badge" />
+  <img alt="Event-Driven" src="https://img.shields.io/badge/Event--Driven-Architecture-6B7280?style=for-the-badge" />
+  <img alt="Domain-Driven Design" src="https://img.shields.io/badge/Domain--Driven_Design-Architecture-111827?style=for-the-badge" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Frontend%2FEdge-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-Backends-2F80ED?style=for-the-badge" />
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-Static_Sites-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="Automated Workflows" src="https://img.shields.io/badge/Workflows-Automated-0EA5E9?style=for-the-badge" />
   
-[![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-</div>
-
-<div style="display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:12px;margin:2rem 0;">
-
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Clerk](https://img.shields.io/badge/Clerk-0055FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.dev/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
 </div>
 
 </div>
@@ -55,7 +78,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 ## 🚀 Featured Projects
 > *Where enterprise meets entrepreneurship, and culture meets code.*
 
-### 🚚 FleetFusion — Next-Gen Fleet Management SaaS  
+### 🚚 Fleet Fusion — Next-Gen Fleet Management SaaS  
 **Repo:** [DigitalHerencia/FleetFusion](https://github.com/DigitalHerencia/FleetFusion)  
 **Live Demo:** **https://fleet-fusion.vercel.app**  
 - **What it is:** A Transportation Management System (TMS) for small-to-midsize logistics operators.  
@@ -95,7 +118,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 💰 HustlersCode — Street-Smart Business Analytics  
+### 💰 Hustler's Code — Street-Smart Business Analytics  
 **Repo:** [DigitalHerencia/HustlersCode](https://github.com/DigitalHerencia/HustlersCode)  
 **Live Demo:** **https://hustlerscode.vercel.app**  
 - **What it is:** A business intelligence dashboard built for hustlers and small-scale entrepreneurs.  
@@ -113,7 +136,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 🔥 SiempreNuevo — Culture-Forward Streetwear  
+### 🔥 Siempre Nuevo — Culture-Forward Streetwear  
 **Repo:** [DigitalHerencia/SiempreNuevo](https://github.com/DigitalHerencia/SiempreNuevo)  
 **Live Demo:** **https://siemprenuevo.vercel.app**  
 - **What it is:** A bold streetwear storefront built with Next.js.  
@@ -130,7 +153,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 🗣️ FreeTheHomie — Fundraising Platform  
+### 🗣️ Free the Homie — Fundraising Platform  
 **Repo:** [DigitalHerencia/FreeTheHomie](https://github.com/DigitalHerencia/FreeTheHomie)  
 **Live Demo:** **https://freethehomie.vercel.app**  
 - **What it is:** A modern fundraising storefront.  
@@ -147,7 +170,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 📸 PortraitPlanner — AI-Enhanced Photography Session Planning  
+### 📸 Portrait Planner — AI-Enhanced Photography Session Planning  
 **Repo:** [DigitalHerencia/PortraitPlanner](https://github.com/DigitalHerencia/PortraitPlanner)  
 **Live Demo:** **https://portraitplanner.vercel.app/**  
 - **What it is:** A modern planning tool for photographers and studios to organize sessions, build moodboards, and streamline client communication.  
@@ -171,11 +194,128 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 ---
 
 ## 🧭 How I Work
-- **Discovery → Prototype → Ship:** Tight iteration cycles with measurable milestones.  
-- **Design Systems:** Reusable components, accessible patterns, and theme tokens.  
-- **Observability:** Structured logs + metrics; dashboards for product & ops.  
-- **Security by Default:** Principle of least privilege, secrets hygiene, CI policy checks.  
-- **Docs as a Feature:** Clear READMEs, setup scripts, and architectural diagrams.
+
+```mermaid
+---
+config:
+  layout: dagre
+---
+%%{init:{
+  "flowchart":{"curve":"basis","nodeSpacing":42,"rankSpacing":60},
+  "theme":"base",
+  "themeVariables":{
+    "primaryColor":"#0ea5e9",
+    "primaryTextColor":"#ffffff",
+    "primaryBorderColor":"#0b4660",
+    "lineColor":"#94a3b8",
+    "clusterTitleFontSize":"26px",
+    "clusterTitleColor":"#ffffff"
+  }
+}}%%
+flowchart TB
+
+%% Top: Operating Principles
+subgraph PILLARS[Operating Principles]
+direction LR
+  DS["Design Systems<br/>• Reusable components<br/>• Accessible patterns<br/>• Theme tokens"]:::pillar
+  OB["Observability<br/>• Structured logs &amp; metrics<br/>• Dashboards (product &amp; ops)"]:::pillar
+  SEC["Security by Default<br/>• Least privilege<br/>• Secrets hygiene<br/>• CI policy checks"]:::pillar
+  DOC["Docs as a Feature<br/>• Clear READMEs<br/>• Setup scripts<br/>• Architectural diagrams"]:::pillar
+end
+
+%% Lane (same color as PILLARS) with green tags inside
+subgraph IMPACT[ ]
+direction LR
+  subgraph COL_D[ ]
+  direction TB
+    L_sup_d["supports"]:::tag
+    L_inf_d["informs"]:::tag
+    L_con_d["constrains"]:::tag
+    L_gui_d["guides"]:::tag
+  end
+  subgraph COL_P[ ]
+  direction TB
+    L_sup_p["supports"]:::tag
+    L_ins_p["instruments"]:::tag
+    L_gat_p["gates"]:::tag
+    L_std_p["standardizes"]:::tag
+  end
+  subgraph COL_S[ ]
+  direction TB
+    L_sup_s["supports"]:::tag
+    L_mon_s["monitors"]:::tag
+    L_pro_s["protects"]:::tag
+    L_edu_s["educates"]:::tag
+  end
+end
+
+%% Anchors (to reduce crossings)
+AD((" ")):::anchor
+AP((" ")):::anchor
+AS((" ")):::anchor
+
+%% Middle: Delivery cycle (single-line title)
+subgraph CYCLE[Discovery→Prototype→Ship]
+direction LR
+  D(Discovery):::stage --> P(Prototype):::stage --> S(Ship):::stage
+  S -.-> FL["feedback loop"]:::stage
+  FL -.-> D
+end
+
+%% Bottom: Outcome
+M[("Measurable Milestones")]:::note
+D --> M
+P --> M
+S --> M
+
+%% Pillars → tags (dashed)
+DS -.-> L_sup_d
+DS -.-> L_sup_p
+DS -.-> L_sup_s
+OB -.-> L_inf_d
+OB -.-> L_ins_p
+OB -.-> L_mon_s
+SEC -.-> L_con_d
+SEC -.-> L_gat_p
+SEC -.-> L_pro_s
+DOC -.-> L_gui_d
+DOC -.-> L_std_p
+DOC -.-> L_edu_s
+
+%% Tags → anchors → stages
+L_sup_d -.-> AD
+L_inf_d -.-> AD
+L_con_d -.-> AD
+L_gui_d -.-> AD
+
+L_sup_p -.-> AP
+L_ins_p -.-> AP
+L_gat_p -.-> AP
+L_std_p -.-> AP
+
+L_sup_s -.-> AS
+L_mon_s -.-> AS
+L_pro_s -.-> AS
+L_edu_s -.-> AS
+
+AD --> D
+AP --> P
+AS --> S
+
+%% Styles
+classDef stage  fill:#0ea5e9,stroke:#0b4660,color:#ffffff,stroke-width:1.5px;
+classDef pillar fill:#111827,stroke:#4b5563,color:#ffffff,stroke-width:1px;
+classDef note   fill:#f3f4f6,stroke:#9ca3af,color:#111827,stroke-width:1px;
+classDef tag    fill:#a3e635,stroke:#3f6212,color:#000000,stroke-width:1px;
+classDef anchor fill:transparent,stroke:transparent,color:transparent;
+
+style PILLARS fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:1px;
+style CYCLE   fill:#374151,stroke:#4b5563,color:#ffffff,stroke-width:1px;
+style IMPACT  fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:1px;
+style COL_D   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
+style COL_P   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
+style COL_S   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
+```
 
 ---
 
