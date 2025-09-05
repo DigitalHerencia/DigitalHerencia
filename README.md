@@ -147,9 +147,43 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
+### 📸 PortraitPlanner — AI-Enhanced Photography Session Planning  
+**Repo:** [DigitalHerencia/PortraitPlanner](https://github.com/DigitalHerencia/PortraitPlanner)  
+**Live Demo:** **https://portraitplanner.vercel.app/**  
+- **What it is:** A modern planning tool for photographers and studios to organize sessions, build moodboards, and streamline client communication.  
+- **Highlights:**  
+  - Session scheduling with editable shot plans and deadlines  
+  - Moodboard creation to collect references and inspiration per shoot  
+  - Gallery & deliverables view to keep client assets centralized  
+  - PWA-ready with offline support for on-site work  
+  - Theming (dark/light) with customizable tokens for brand fit  
+- **Architecture:**  
+  - Next.js 15 + React 19, fully typed components  
+  - UI built on Tailwind v4 + shadcn/ui + Radix primitives  
+  - Forms via React Hook Form + Zod; state via Context + next-themes  
+  - Image handling using **@vercel/blob**; analytics via Recharts  
+  - Workbox service worker for precaching & runtime strategies  
+- **Why it matters:** Turns creative chaos into a predictable workflow, reducing missed shots and client back-and-forth.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalHerencia/PortraitPlanner/refs/heads/main/public/Screenshot_4-9-2025_225338_portraitplanner.vercel.app.jpeg" alt="PortraitPlanner Screenshot" width="100%" style="border-radius:12px;margin:1rem 0;">
+</p>
+
+---
+
+## 🧭 How I Work
+- **Discovery → Prototype → Ship:** Tight iteration cycles with measurable milestones.  
+- **Design Systems:** Reusable components, accessible patterns, and theme tokens.  
+- **Observability:** Structured logs + metrics; dashboards for product & ops.  
+- **Security by Default:** Principle of least privilege, secrets hygiene, CI policy checks.  
+- **Docs as a Feature:** Clear READMEs, setup scripts, and architectural diagrams.
+
+---
+
 ## 🤝 Let’s Build Something
 📧 **Contact:** [Open an Issue](https://github.com/DigitalHerencia/DigitalHerencia/issues)  
 🔗 **Portfolio:** Explore live demos above  
 🌟 **Open to:** Full-time roles, contracting, OSS collaborations, and partnerships  
+
+---
 
 > *“Knowledge is power, but applied knowledge is profit.”*
