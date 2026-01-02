@@ -59,18 +59,18 @@
 
 ---
 
-## 🌎 About Me
+## About Me
 I’m a New Mexico native blending **enterprise-grade engineering** with **cultural storytelling** and **entrepreneurial hustle**.  
-My work combines SaaS design, real-world analytics, and creative brand expression—applications that are as useful for businesses as they are authentic to communities.  
+My work combines SaaS design, real-world analytics, and creative brand expression, applications that are as useful for businesses as they are authentic to communities.  
 
-- 🏢 **Enterprise:** Multi-tenant SaaS, RBAC/ABAC, compliance & reporting  
-- 🎨 **Culture-forward:** Tech that integrates Latino/Hispanic identity, storytelling, and brand  
-- 🚀 **Operator mindset:** Build for efficiency, margins, and scale  
-- 🤖 **AI & Automation:** Context tooling, LLM workflows, domain-specific automation  
+- **Enterprise:** Multi-tenant SaaS, RBAC/ABAC, compliance & reporting  
+- **Culture-forward:** Tech that integrates Latino/Hispanic identity, storytelling, and brand  
+- **Operator mindset:** Build for efficiency, margins, and scale  
+- **AI & Automation:** Context tooling, LLM workflows, domain-specific automation  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** Next.js 15 (App Router, RSC), React 19, Tailwind CSS 4, shadcn/ui, Radix  
 - **Backend:** Node.js, React Server Actions, Vercel Edge Functions, Express (legacy)  
 - **Data:** PostgreSQL (Neon), Prisma ORM, Redis cache layers, analytics dashboards with Nivo & Recharts  
@@ -81,12 +81,12 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 > *Where enterprise meets entrepreneurship, and culture meets code.*
 
-### 🚚 Fleet Fusion — Next-Gen Fleet Management SaaS  
+### Fleet Fusion - Next-Gen Fleet Management SaaS  
 **Repo:** [DigitalHerencia/FleetFusion](https://github.com/DigitalHerencia/FleetFusion)  
-**Live Demo:** **https://fleet-fusion.vercel.app**  
+**Live Demo:** **https://fleetfusion.vercel.app**  
 - **What it is:** A Transportation Management System (TMS) for small-to-midsize logistics operators.  
 - **Features:**  
   - Dispatch board for assigning loads  
@@ -105,7 +105,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 🧠 Codebase Context Utility — LLM-Ready Context Tool  
+### Codebase Context Utility - LLM-Ready Context Tool  
 **Repo:** [DigitalHerencia/CodebaseContextUtility](https://github.com/DigitalHerencia/CodebaseContextUtility)  
 **Live Demo:** **https://codebase-context-utility.vercel.app**  
 - **What it is:** A developer tool that transforms source repos into structured LLM-ready context.  
@@ -124,7 +124,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 💰 Hustler's Code — Street-Smart Business Analytics  
+### Hustler's Code - Street-Smart Business Analytics  
 **Repo:** [DigitalHerencia/HustlersCode](https://github.com/DigitalHerencia/HustlersCode)  
 **Live Demo:** **https://hustlerscode.vercel.app**  
 - **What it is:** A business intelligence dashboard built for hustlers and small-scale entrepreneurs.  
@@ -142,7 +142,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 🔥 Siempre Nuevo — Culture-Forward Streetwear  
+### Siempre Nuevo - Culture-Forward Streetwear  
 **Repo:** [DigitalHerencia/SiempreNuevo](https://github.com/DigitalHerencia/SiempreNuevo)  
 **Live Demo:** **https://siemprenuevo.vercel.app**  
 - **What it is:** A bold streetwear storefront built with Next.js.  
@@ -159,7 +159,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 🗣️ Free the Homie — Fundraising Platform  
+### Free the Homie - Fundraising Platform  
 **Repo:** [DigitalHerencia/FreeTheHomie](https://github.com/DigitalHerencia/FreeTheHomie)  
 **Live Demo:** **https://freethehomie.vercel.app**  
 - **What it is:** A modern fundraising storefront.  
@@ -176,7 +176,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-### 📸 Portrait Planner — AI-Enhanced Photography Session Planning  
+### Portrait Planner - AI-Enhanced Photography Session Planning  
 **Repo:** [DigitalHerencia/PortraitPlanner](https://github.com/DigitalHerencia/PortraitPlanner)  
 **Live Demo:** **https://portraitplanner.vercel.app/**  
 - **What it is:** A modern planning tool for photographers and studios to organize sessions, build moodboards, and streamline client communication.  
@@ -199,7 +199,7 @@ My work combines SaaS design, real-world analytics, and creative brand expressio
 
 ---
 
-## 🧭 How I Work
+## How I Work
 
 ```mermaid
 ---
@@ -220,7 +220,6 @@ config:
 }}%%
 flowchart TB
 
-%% ── Operating Principles (top)
 subgraph PILLARS[Operating Principles]
 direction LR
   DS["Design Systems<br/>• Reusable components<br/>• Accessible patterns<br/>• Theme tokens"]:::pillar
@@ -229,7 +228,6 @@ direction LR
   DOC["Docs as a Feature<br/>• Clear READMEs<br/>• Setup scripts<br/>• Architectural diagrams"]:::pillar
 end
 
-%% ── Influence lane (same color as PILLARS) with green tags inside
 subgraph IMPACT[ ]
 direction LR
   subgraph COL_D[ ]
@@ -255,13 +253,11 @@ direction LR
   end
 end
 
-%% ── Anchors (fan-out to reduce crossings)
 AD((" ")):::anchor
 AP((" ")):::anchor
 AS((" ")):::anchor
 
-%% ── Delivery cycle (left→right order; milestones under the section)
-subgraph CYCLE[Discovery→Prototype→Ship]
+subgraph CYCLE[Discovery to Prototype to Ship]
 direction TB
   subgraph FLOW[ ]
   direction TB
@@ -275,13 +271,11 @@ direction TB
   S --> M
 end
 
-%% ── Pillars → tags (dashed)
 DS -.-> L_sup_d; DS -.-> L_sup_p; DS -.-> L_sup_s
 OB -.-> L_inf_d; OB -.-> L_ins_p; OB -.-> L_mon_s
 SEC -.-> L_con_d; SEC -.-> L_gat_p; SEC -.-> L_pro_s
 DOC -.-> L_gui_d; DOC -.-> L_std_p; DOC -.-> L_edu_s
 
-%% ── Tags → anchors → stages
 L_sup_d -.-> AD; L_inf_d -.-> AD; L_con_d -.-> AD; L_gui_d -.-> AD
 L_sup_p -.-> AP; L_ins_p -.-> AP; L_gat_p -.-> AP; L_std_p -.-> AP
 L_sup_s -.-> AS; L_mon_s -.-> AS; L_pro_s -.-> AS; L_edu_s -.-> AS
@@ -289,7 +283,6 @@ AD --> D
 AP --> P
 AS --> S
 
-%% ── Styles
 classDef stage  fill:#0ea5e9,stroke:#0b4660,color:#ffffff,stroke-width:1.5px;
 classDef pillar fill:#111827,stroke:#4b5563,color:#ffffff,stroke-width:1px;
 classDef note   fill:#f3f4f6,stroke:#9ca3af,color:#111827,stroke-width:1px;
@@ -303,14 +296,15 @@ style COL_P   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
 style COL_S   fill:#1f2937,stroke:#1f2937,color:#ffffff,stroke-width:0;
 style FLOW    fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:0;
 style CYCLE   fill:#1f2937,stroke:#4b5563,color:#ffffff,stroke-width:1px;
-```
+````
 
 ---
 
-## 🤝 Let’s Build Something
-📧 **Contact:** [Open an Issue](https://github.com/DigitalHerencia/DigitalHerencia/issues)  
-🔗 **Portfolio:** Explore live demos above  
-🌟 **Open to:** Full-time roles, contracting, OSS collaborations, and partnerships  
+## Let’s Build Something
+
+**Contact:** [Open an Issue](https://github.com/DigitalHerencia/DigitalHerencia/issues)
+**Portfolio:** Explore live demos above
+**Open to:** Full-time roles, contracting, OSS collaborations, and partnerships
 
 ---
 
